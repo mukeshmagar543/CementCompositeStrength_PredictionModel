@@ -34,7 +34,7 @@ Data Cleaning and Preprocessing Also Feature Engineering**
 
 1. Split Data into Independent and Dependent Column i.e. X and y
 
-2. Using Train and Test Split to Prevent Data Leekage.
+2. Using Train and Test Split to Prevent Data Lekage.
 
 ## Step 6:
 
